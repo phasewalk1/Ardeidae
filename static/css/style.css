@@ -65,7 +65,7 @@ hr {
 
 #posts-container {
     font-size: 2rem;
-    font-family: "Ubuntu Mono", monospace;
+    font-family: "Berkeley Mono", monospace;
     font-weight: bold;
     margin-top: 3rem;
     padding: 0 10rem 0 0;
@@ -158,7 +158,7 @@ header {
 }
 
 #after-post {
-    font-family: "Noto Sans", sans-serif;
+    font-family: "Berkeley Mono", sans-serif;
     font-weight: bold;
     font-size: 1rem;
     text-align: center;
@@ -188,7 +188,7 @@ header {
 /* footer */
 
 footer {
-    font-family: "Ubuntu Mono", monospace;
+    font-family: "Berkeley Mono", monospace;
     color: whitesmoke;
     opacity: 0.75;
     font-size: 1rem;
@@ -204,7 +204,7 @@ img {
 }
 
 .chroma {
-    font-family: "Ubuntu Mono", monospace;
+    font-family: "Berkeley Mono", monospace;
     font-size: 1rem;
     padding: 1.5rem 1rem;
     border-radius: 3px;

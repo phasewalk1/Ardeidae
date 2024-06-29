@@ -4,11 +4,8 @@
 
 <body>
     <div id="landing">
+        <img src="/hero.gif"> 
 
-
-        <img
-                src="/hero.gif"
-                />
         <div id="landing-content">
             {{- partial "header.html" . -}}
             <section id="posts-container">
@@ -26,9 +23,6 @@
             </section>
             {{- partial "footer.html" . -}}
     </div>
-
-    <script src="{{ relURL `p5/p5.min.js` }}"></script>
-    <script src="{{ relURL `js/genart.js` }}"></script>
 </body>
 
 </html>
